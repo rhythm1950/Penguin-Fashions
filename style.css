@@ -1,32 +1,39 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 img {
     width: 370px;
 }
+
 .btn-all {
     background-color: rgb(149, 207, 14);
     color: white;
 }
+
 .menu ul li {
     margin-right: 40px;
     font-weight: bold;
 
 }
-.footer-text{
+
+.footer-text {
     text-align: center;
     color: white;
     font-size: 13px;
 }
+
 .my-footer {
     background-color: rgb(15, 15, 15);
     padding-top: 25px;
     padding-bottom: 10px;
     font-family: 'Times New Roman', Times, serif;
 }
+
 .fourth {
     margin-top: 80px;
 }
+
 h5 img {
     width: 300px;
 }
