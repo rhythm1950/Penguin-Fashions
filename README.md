@@ -1,5 +1,5 @@
 # Penguin-Fashions
-This is a UI of a Netflix landing page. I have developed it using React, JSX, CSS, Bootstrap.
+This is a simple ecommerce shop. I have developed it using React, JSX, CSS, Bootstrap.
 
 ### Deployment
 | Environment | Link |
